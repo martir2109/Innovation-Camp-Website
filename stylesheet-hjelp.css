@@ -1,15 +1,17 @@
 body {
-            margin-left: 25px;
-            margin right: 25px;
+    margin-left: 25px;
+    margin right: 25px;
     background-color: lightyellow;
     font-family: serif;
         }
-        .topbox {
-            height: 150px;
-            margin-left: 20px;
-            margin-right: 20px;
+
+.topbox {
+     height: 150px;
+     margin-left: 20px;
+     margin-right: 20px;
            
         }
+
         .logo {
             width:30%;  
         }
